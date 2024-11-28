@@ -1,21 +1,7 @@
-<div id="header" align="center">
-  <h1>Tag Line or introduction?</h1>
-</div>
-
 ### 🚀 Senior Full-Stack Engineer | Robotics Enthusiast | Blockchain Connoisseur
-   
-<!-- insert snippit about you and a fun fact -->
-   
-## Current Projects
-<!-- self explanatory -->
-
-## What I am focusing on
-<!-- self explanatory -->
 
 ## Find me Elsewhere 🌎
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />](https://www.linkedin.com/in/j-bravo-developer/)
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />](https://twitter.com/yourusername)
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/discord.png" />](https://discord.com/396372249634013198) <!-- I am not sure if this one will work properly. You'll also need to update the twitter one -->
 
 
 ## 🛠 Tech Stack
@@ -104,9 +90,3 @@
 ## 👁‍🗨 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Rhovian&color=blueviolet)
 [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Rhovian)
-
----
-
-<p align="center">
-  <i>Insert statement about connecting or something</i>
-</p>
