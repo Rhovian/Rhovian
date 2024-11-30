@@ -1,10 +1,3 @@
-### 🚀 Senior Full-Stack Engineer | Robotics Enthusiast | Blockchain
-
-## Find me Elsewhere 🌎
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />](https://www.linkedin.com/in/j-bravo-developer/)
-
-&nbsp;
-
 ## 🛠 Tech Stack
 
 ### Programming Languages
