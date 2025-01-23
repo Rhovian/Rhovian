@@ -69,16 +69,3 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![RoboDK](https://img.shields.io/badge/-RoboDK-FF6B6B?style=flat&logo=robot-framework&logoColor=white)   
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhovian&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rhovian&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 👁‍🗨 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Rhovian&color=blueviolet)
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Rhovian)
