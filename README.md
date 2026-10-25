@@ -2,8 +2,6 @@
 
 [![X @olorosia](https://img.shields.io/badge/X-@olorosia-000?style=flat&logo=x)](https://x.com/olorosia)
 
-Rust, C, Go, Blockchains, Games, AI, Embedded
-
 #### Building
 
 - **[niles](https://github.com/Rhovian/niles)** [![GitHub stars](https://img.shields.io/github/stars/Rhovian/niles?style=flat&color=gold)](https://github.com/Rhovian/niles) - Opinionated orchestration harness across agent CLIs (Claude Code, Codex, Hermes, pi) with research, design, and security roles.
