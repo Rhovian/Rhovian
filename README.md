@@ -5,7 +5,6 @@
 #### Building
 
 - **[niles](https://github.com/Rhovian/niles)** [![GitHub stars](https://img.shields.io/github/stars/Rhovian/niles?style=flat&color=gold)](https://github.com/Rhovian/niles) - Opinionated orchestration harness across agent CLIs (Claude Code, Codex, Hermes, pi) with research, design, and security roles.
-- **[naila](https://github.com/Rhovian/robo-naila)** [![GitHub stars](https://img.shields.io/github/stars/Rhovian/robo-naila?style=flat&color=gold)](https://github.com/Rhovian/robo-naila) - Local AI assistant with voice, vision, and personality. Runs entirely on your LAN, no cloud.
 - **[roshi](https://github.com/Rhovian/roshi)** [![GitHub stars](https://img.shields.io/github/stars/Rhovian/roshi?style=flat&color=gold)](https://github.com/Rhovian/roshi) - Solana-native vault protocol for strategist-managed portfolios: share accounting, NAV reporting, queued withdrawals, performance fees.
 - **[ue-forest](https://github.com/Rhovian/ue-forest)** [![GitHub stars](https://img.shields.io/github/stars/Rhovian/ue-forest?style=flat&color=gold)](https://github.com/Rhovian/ue-forest) - Unreal Engine 5.8 high-fidelity forest built by coding agents driving the editor over MCP, coordinated with Niles.
 
